@@ -34,3 +34,12 @@
 
 3. Reference Material
 
+### 03/09/2018
+
+1. What did I learn today?
+
+2. Are there any impediments or doubts for the next lesson?
+
+3. Reference Material
+
+
