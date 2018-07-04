@@ -1,6 +1,6 @@
 #### DEVOPS Week 1
 
-### Day1
+### 26/06/2018
 
 1. What did I learn today?
 
@@ -8,7 +8,7 @@
 
 3. Reference Material
 
-### Day2
+### 28/06/2018
 
 1. What did I learn today?
 
@@ -16,7 +16,7 @@
 
 3. Reference Material
 
-### Day3
+### 30/06/2018
 
 1. What did I learn today?
 
@@ -26,7 +26,7 @@
 
 #### DEVOPS Week 2
 
-### Day1
+### 03/07/2018
 
 1. What did I learn today?
 
@@ -34,18 +34,3 @@
 
 3. Reference Material
 
-### Day2
-
-1. What did I learn today?
-
-2. Are there any impediments or doubts for the next lesson?
-
-3. Reference Material
-
-### Day3
-
-1. What did I learn today?
-
-2. Are there any impediments or doubts for the next lesson?
-
-3. Reference Material
